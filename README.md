@@ -36,4 +36,6 @@ The project utilizes several key tools and technologies.
 **5.	Deployment:** The final .pbix file (Employee Compensation.pbix) is ready for deployment to Power BI Service for sharing with stakeholders.
 
 
-**Screenshot:**
+**Screenshot:** 
+![Image Alt]([https://github.com/AnupamBanerjee28/Employee-Compensation-Analysis-/blob/main/Screenshot%20.png?raw=true])
+
