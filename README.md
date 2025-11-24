@@ -37,5 +37,5 @@ The project utilizes several key tools and technologies.
 
 
 **Screenshot:** 
-![Image Alt]([https://github.com/AnupamBanerjee28/Employee-Compensation-Analysis-/blob/main/Screenshot%20.png?raw=true])
+![Image Alt](https://github.com/AnupamBanerjee28/Employee-Compensation-Analysis-/blob/main/Screenshot%20.png?raw=true)
 
